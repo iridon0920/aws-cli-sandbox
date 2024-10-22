@@ -1,3 +1,7 @@
 config:
   aws:region: ap-northeast-1
   aws:profile: pulumi
+  aws-cli-sandbox:domainName:
+    secure: AAABAPOPfkQzGgAY3/HSbkd1d0G6BaLYdzMHbPoAIlVP8PkmtWZHT2ggdnDV3jMX7Q==
+  aws-cli-sandbox:subdomain:
+    secure: AAABAPgAWiu+C1hJIGPHueSapUXAI+zNU6/63AtcuOstrSz0pNuL0w==
